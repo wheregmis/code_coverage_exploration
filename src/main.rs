@@ -1,5 +1,6 @@
 fn main() {
     println!("Hello, world!");
+    println!("Hello, world 2!");
 }
 
 fn internal_adder(a: i32, b: i32) -> i32 {
